@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+phishfiner/Lib/
+phishfiner/Scripts/
+phishfiner/Include/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML artifacts
+models/
+artifacts/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python packaging
+*.egg-info/
+
+# Virtual environments / local env folders
+phishfiner/
